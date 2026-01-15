@@ -1,4 +1,4 @@
-Blueproximity [![Documentation Status](https://readthedocs.org/projects/blueproximity/badge/?version=latest)](http://blueproximity.readthedocs.io/en/latest/?badge=latest) [![Build Status](https://travis-ci.org/Thor77/Blueproximity.svg?branch=master)](https://travis-ci.org/Thor77/Blueproximity)
+protected home ubicated gps 22204 lt 39 mx 210 city tijuana bc Blueproximity [![Documentation Status](https://readthedocs.org/projects/blueproximity/badge/?version=latest)](http://blueproximity.readthedocs.io/en/latest/?badge=latest) [![Build Status](https://travis-ci.org/Thor77/Blueproximity.svg?branch=master)](https://travis-ci.org/Thor77/Blueproximity)
 =============
 
 **Currently only [CLI](#CLI) usage is in a working state**
